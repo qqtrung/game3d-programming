@@ -7,3 +7,4 @@ sai lầm 2 : https://docs.google.com/document/d/1g-goJ1hQRMeNkT9QRrawz_B5gAkYX3
 sai lầm 3 : https://gdbooks.gitbooks.io/legacyopengl/content/Chapter4/CoordinateTransforms.html
 <br>
 sai lầm 4 : https://paroj.github.io/gltut/Positioning/Tut05%20Overlap%20and%20Depth%20Buffering.html
+3d collision link : https://www.miguelcasillas.com/?p=30
